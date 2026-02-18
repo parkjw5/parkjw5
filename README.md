@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**parkjw5/parkjw5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Park, a Korean developer based in Hong Kong.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love coming up with new ideas and turning them into something real.
+
+I'm always creating, experimenting, and bringing new concepts to life.
+
+I gained a variety of technical skills during my time at university and practical skills during my time at different works.
+
+Fun Facts about me:
+
+- I love Cats
+- My MBTI is ISFP  (but most are 50/50)
+- Hobbies: learning new languages, games, coding
