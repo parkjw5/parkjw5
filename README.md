@@ -1,13 +1,11 @@
 ## Hi there 👋
 
 
-I am Park, a Korean developer based in Hong Kong.
+Korean builder based in Hong Kong 🇰🇷🇭🇰
 
-I love coming up with new ideas and turning them into something real.
+I turn ideas into real, usable products.
 
-I'm always creating, experimenting, and bringing new concepts to life.
-
-I gained a variety of technical skills during my time at university and practical skills during my time at different works.
+Always building, always learning.
 
 Fun Facts about me:
 
