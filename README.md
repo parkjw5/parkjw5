@@ -10,5 +10,5 @@ Always building, always learning.
 Fun Facts about me:
 
 - I love Cats
-- My MBTI is ISFP  (but most are 50/50)
+- MBTI: ISFP
 - Hobbies: learning new languages, games, coding
