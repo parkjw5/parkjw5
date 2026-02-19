@@ -7,7 +7,12 @@ I turn ideas into real, usable products.
 
 Always building, always learning.
 
-Fun Facts about me:
+### What I Do
+- Full-stack development
+- UI/UX-focused projects
+- Building tools that solve real problems
+
+### Fun Facts about me:
 
 - I love Cats
 - MBTI: ISFP
